@@ -52,4 +52,4 @@ Greetings! I'm Uttaran Das, a dedicated Full-Stack React Developer on a mission 
 ## 🏆 GitHub Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=UttaranDas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 👁️‍🗨️ Profile views
-[![views](https://visitcount.itsvg.in/api?id=UttaranDas&icon=0&color=9)](https://visitcount.itsvg.in)
+![VisitCount](https://komarev.com/ghpvc/?username=UttaranDas)
